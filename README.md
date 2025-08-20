@@ -1,11 +1,11 @@
 # Interactive-sales-dashboard-of-a-supermarket-using-Tableau
-The dashboard shows the insights of various aspects in the supermarket business like operations, sales, and customer interactions.
+The tableau dashboard in this project shows the insights of various aspects in the supermarket business like operations, sales, and customer interactions.
 By evaluating the transaction data, we can give significant information related to peak hours in the supermarket, popular product categories, varying interests based on genders and profitability among all the branches. We can also obtain information about each branch by selecting the branch from drop down list. Furthermore, critical data such as gross income of the store over three months, sale revenue over time and payment method preferred across the branches can be tracked through this dashboard. This allows the dashboard users and stakeholders to make wise decisions related to pricing, inventory and marketing strategies. The dashboard also depicts the sales performance, customer satisfaction, areas to improvise and promotes overall growth of the supermarket.
 
 ## Dataset used for this dashboard
 The dataset that will be used for implementing this project is titled “Sales of a SuperMarket”. This dataset consists of historical sales data for over 3 months by a supermarket having three branches in three different cities. The features of this dataset have been spread in 17 columns and 1001 rows. It serves as a valuable source for predictive data analysis and visualization, as it illustrates the transactions of customers, including store’s location, tax percentages, gross income and ratings by the buyers. These insights allow the business organizations to analyze the trend of products in the market and anticipate customer preferences and improvise the outcomes accordingly.
 
-## Public Link to the dashboard
+## Public Link to the tableau dashboard
 https://public.tableau.com/app/profile/nikhil.anirudh.naishadham/viz/Team23_IFT533ProjectPhase3/Dashboard1
 
 ## Public Link to architecture of dashboard
